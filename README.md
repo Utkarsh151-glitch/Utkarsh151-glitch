@@ -70,7 +70,7 @@
       <b>Pre-Delinquency Risk Intelligence</b><br>
       Early-warning credit-risk scoring: 16 behavioural signals, a Random Forest, a FastAPI + MongoDB API and a React dashboard (simulated data).<br>
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"><br>
-      <a href="https://barclays-predelinquency.vercel.app">Live Demo</a> | <a href="https://github.com/Utkarsh151-glitch/BARCLAYS-PREDELINQUENCY">Code</a>
+      <a href="https://barclays-predelinquency.vercel.app">Live Demo</a> | <a href="https://github.com/Utkarsh151-glitch/predelinquency-risk-intelligence">Code</a>
     </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@
       <b>AI Algorithm Tutor</b><br>
       React Native app that animates A* and alpha-beta pruning step by step, explained by a local LLM through Ollama.<br>
       <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"><br>
-      <a href="https://github.com/Utkarsh151-glitch/AI--Tutor">Code</a>
+      <a href="https://github.com/Utkarsh151-glitch/ai-algorithm-tutor">Code</a>
     </td>
     <td width="50%" valign="top">
       <b>CG Power: Equity Research</b><br>
